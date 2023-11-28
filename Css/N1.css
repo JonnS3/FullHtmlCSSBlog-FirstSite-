@@ -297,10 +297,10 @@ img {
 }
 .item2 img {
     width: 50vw;
-    height: 15vw;
+    height: 25vh;
 }
 .item img {
-    height: 15vw;
+    height: 25vh;
 }
 
 @media (max-width:900px) {
