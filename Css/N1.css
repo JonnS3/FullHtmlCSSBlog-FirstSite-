@@ -165,7 +165,7 @@ img {
     color: #000000
 }
 .homepage:hover {
-    background-color: rgb(211, 211, 211);
+    background-color: #ececec;
     border-radius: 20px;
 }
 .novidades{
@@ -174,7 +174,7 @@ img {
     color: white;
 }
 .novidades:hover {
-    background-color:  rgb(211, 211, 211);
+    background-color:  #ececec;
     border-radius: 20px;
 }
 .sobre{
@@ -182,7 +182,7 @@ img {
     background-color: white;
 }
 .sobre:hover {
-    background-color:  rgb(211, 211, 211);
+    background-color: #ececec;
     border-radius: 20px;
 }
 
