@@ -257,13 +257,22 @@ img {
         .container ul li {
             text-align: center;
             margin: 0px;
+	    line-height: 27px;
         }
         .listagem ol li {
             text-align: center;
             margin: 0px;
+	    line-height: 27px;
         }
     }
-
+@media (max-width: 300px) {
+	.container ul li {
+		line-height: 23px;
+	}
+	.listagem ol li {
+		line-height: 23px;
+	}
+}
 
 
 
